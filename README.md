@@ -2,7 +2,7 @@
 
 ### Folder Structure
 
-.
+.<br>
 ├── core
 │   ├── __init__.py
 │   ├── asgi.py
