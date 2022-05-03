@@ -3,15 +3,15 @@
 ### Folder Structure
 
 .<br>
-├── core
-│   ├── __init__.py
-│   ├── asgi.py
-│   ├── settings.py   --> Django Settings
-│   ├── urls.py
-│   └── wsgi.py
-│
-├── any.py   --> Any Python File
-└── manage.py
+├── core<br>
+│   ├── __init__.py<br>
+│   ├── asgi.py<br>
+│   ├── settings.py   --> Django Settings<br>
+│   ├── urls.py<br>
+│   └── wsgi.py<br>
+│<br>
+├── any.py   --> Any Python File<br>
+└── manage.py<br>
 
 
 ### First Open any.py 
