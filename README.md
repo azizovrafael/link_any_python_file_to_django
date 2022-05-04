@@ -12,7 +12,6 @@
 │<br>
 ├── any.py   --> Any Python File<br>
 └── manage.py<br>
-<br>
 
 ### First Open any.py 
 ```
