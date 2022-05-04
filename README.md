@@ -1,7 +1,7 @@
 # Link any Python file to Django and use
 
 ### Folder Structure
-
+<br>
 .<br>
 ├── core<br>
 │   ├── __init__.py<br>
